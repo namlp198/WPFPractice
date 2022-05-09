@@ -1,0 +1,15 @@
+C:\Users\namlp\Desktop\Test\ICommandDemo\ICommandDemo\bin\Debug\ICommandDemo.exe.config
+C:\Users\namlp\Desktop\Test\ICommandDemo\ICommandDemo\bin\Debug\ICommandDemo.exe
+C:\Users\namlp\Desktop\Test\ICommandDemo\ICommandDemo\bin\Debug\ICommandDemo.pdb
+C:\Users\namlp\Desktop\Test\ICommandDemo\ICommandDemo\obj\Debug\ICommandDemo.csproj.AssemblyReference.cache
+C:\Users\namlp\Desktop\Test\ICommandDemo\ICommandDemo\obj\Debug\MainWindow.g.cs
+C:\Users\namlp\Desktop\Test\ICommandDemo\ICommandDemo\obj\Debug\App.g.cs
+C:\Users\namlp\Desktop\Test\ICommandDemo\ICommandDemo\obj\Debug\ICommandDemo_MarkupCompile.cache
+C:\Users\namlp\Desktop\Test\ICommandDemo\ICommandDemo\obj\Debug\ICommandDemo_MarkupCompile.lref
+C:\Users\namlp\Desktop\Test\ICommandDemo\ICommandDemo\obj\Debug\MainWindow.baml
+C:\Users\namlp\Desktop\Test\ICommandDemo\ICommandDemo\obj\Debug\ICommandDemo.g.resources
+C:\Users\namlp\Desktop\Test\ICommandDemo\ICommandDemo\obj\Debug\ICommandDemo.Properties.Resources.resources
+C:\Users\namlp\Desktop\Test\ICommandDemo\ICommandDemo\obj\Debug\ICommandDemo.csproj.GenerateResource.cache
+C:\Users\namlp\Desktop\Test\ICommandDemo\ICommandDemo\obj\Debug\ICommandDemo.csproj.CoreCompileInputs.cache
+C:\Users\namlp\Desktop\Test\ICommandDemo\ICommandDemo\obj\Debug\ICommandDemo.exe
+C:\Users\namlp\Desktop\Test\ICommandDemo\ICommandDemo\obj\Debug\ICommandDemo.pdb

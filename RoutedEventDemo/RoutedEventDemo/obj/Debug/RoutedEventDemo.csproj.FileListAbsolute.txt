@@ -1,0 +1,17 @@
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\bin\Debug\RoutedEventDemo.exe.config
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\bin\Debug\RoutedEventDemo.exe
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\bin\Debug\RoutedEventDemo.pdb
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\obj\Debug\RoutedEventDemo.csproj.AssemblyReference.cache
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\obj\Debug\MainWindow.g.cs
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\obj\Debug\App.g.cs
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\obj\Debug\RoutedEventDemo_MarkupCompile.cache
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\obj\Debug\RoutedEventDemo_MarkupCompile.lref
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\obj\Debug\MainWindow.baml
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\obj\Debug\Themes\Generic.baml
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\obj\Debug\RoutedEventDemo.g.resources
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\obj\Debug\RoutedEventDemo.Properties.Resources.resources
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\obj\Debug\RoutedEventDemo.csproj.GenerateResource.cache
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\obj\Debug\RoutedEventDemo.csproj.CoreCompileInputs.cache
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\obj\Debug\RoutedEventDemo.exe
+C:\Users\namlp\Desktop\Test\RoutedEventDemo\RoutedEventDemo\obj\Debug\RoutedEventDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\namlp\Desktop\Test\FactoryPatternDemo\FactoryPatternDemo\bin\Debug\FactoryPatternDemo.exe.config
+C:\Users\namlp\Desktop\Test\FactoryPatternDemo\FactoryPatternDemo\bin\Debug\FactoryPatternDemo.exe
+C:\Users\namlp\Desktop\Test\FactoryPatternDemo\FactoryPatternDemo\bin\Debug\FactoryPatternDemo.pdb
+C:\Users\namlp\Desktop\Test\FactoryPatternDemo\FactoryPatternDemo\obj\Debug\FactoryPatternDemo.csproj.AssemblyReference.cache
+C:\Users\namlp\Desktop\Test\FactoryPatternDemo\FactoryPatternDemo\obj\Debug\FactoryPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\namlp\Desktop\Test\FactoryPatternDemo\FactoryPatternDemo\obj\Debug\FactoryPatternDemo.exe
+C:\Users\namlp\Desktop\Test\FactoryPatternDemo\FactoryPatternDemo\obj\Debug\FactoryPatternDemo.pdb

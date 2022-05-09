@@ -1,0 +1,28 @@
+﻿<Window x:Class="ICommandDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ICommandDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Orientation="Horizontal"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center">
+        <TextBox x:Name="txtMessage"
+                 Text="{Binding MessageText}"
+                 HorizontalAlignment="Left"
+                 Height="23"
+                 Margin="20"
+                 TextWrapping="Wrap"
+                 VerticalAlignment="Top"
+                 Width="120" />
+        <Button x:Name="btnShow"
+                Content="Show"
+                Command="{Binding ShowCommand}"
+                HorizontalAlignment="Left"
+                Margin="20"
+                VerticalAlignment="Top"
+                Width="100" />
+    </StackPanel>
+</Window>
